@@ -5,5 +5,5 @@ test('calculate outputs square of a number', () => {
 })
 
 test('calculate outputs square of a number', () => {
-  expect(calculate(-4)).toBe(16)
+  expect(calculate(-5)).toBe(25)
 })
